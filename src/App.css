@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.header{
+  text-align: center;
+  font-size: 35px;
+  margin-bottom: 60px;
+  font-style: italic;
+}
+.app{
+  text-align: center;
+  background-color: rgb(255, 248, 236);
+}
+.date{
+  margin-bottom: 40px;
+}
+.title{
+  margin-top: 60px;
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+.expl{
+  border: 3px solid black;
+  margin: 0 30px;
+  border-radius: 10px;
+  margin-bottom: 50px;
+  transition: 2s ease;
+  background-color: rgb(248, 161, 130);
+}
+.expl:hover{
+  transition: 2s ease;
+  background-color: rgb(152, 223, 61);
+}
+.footer{
+  color: rgb(45, 3, 83);
+}
